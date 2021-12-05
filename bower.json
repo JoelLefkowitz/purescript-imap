@@ -1,0 +1,25 @@
+{
+  "name": "purescript-imap",
+  "version": "0.1.0",
+  "description": "PureScript IMAP client.",
+  "homepage": "https://github.com/JoelLefkowitz/purescript-imap",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JoelLefkowitz/purescript-imap"
+  },
+  "ignore": [
+    "**/.*",
+    "bower_components",
+    "node_modules",
+    "output",
+    "test",
+    "bower.json",
+    "package.json"
+  ],
+  "devDependencies": {
+    "purescript-assert": "^5.0.0",
+    "purescript-debug": "^5.0.0",
+    "purescript-psci-support": "^5.0.0"
+  }
+}

@@ -1,0 +1,30 @@
+collections:
+  - common
+  - purescript
+
+excludes:
+  - .cspell.json
+  - README.md
+  - bower.json
+  - package.json
+  - spago.dhall
+
+render_context:
+  project:
+    name: purescript-imap
+    description: PureScript IMAP client.
+    version: 0.1.0
+    verbose_name: PureScript Imap
+    repository: https://github.com/JoelLefkowitz/purescript-imap
+    codacy_id: e27efe837eba41e7ac5ab57823925689
+
+  author:
+    author: joellefkowitz
+    author_email: joellefkowitz@hotmail.com
+    verbose_author: Joel Lefkowitz
+
+clear_top_level: true
+logical_grouping: true
+
+loader_paths:
+  - docs

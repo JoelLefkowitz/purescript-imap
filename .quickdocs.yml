@@ -1,0 +1,7 @@
+project: purescript-imap
+version: 0.1.0
+author: Joel Lefkowitz
+verbose_name: PureScript Imap
+html_title: PureScript Imap
+github_url: https://github.com/JoelLefkowitz/purescript-imap
+apidoc_module_dir: src
