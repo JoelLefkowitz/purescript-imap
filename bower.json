@@ -17,6 +17,9 @@
     "bower.json",
     "package.json"
   ],
+  "dependencies": {
+    "purescript-prelude": "^5.0.1"
+  },
   "devDependencies": {
     "purescript-assert": "^5.0.0",
     "purescript-debug": "^5.0.0",
